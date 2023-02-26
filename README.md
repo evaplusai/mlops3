@@ -4,7 +4,7 @@ The main objective of this project is learning MLOPs tools from open source and 
 It will go in 4 stages:
 
 ### 1. Stage - Kick-Starting 
-This will leberage best practices to establish project structure, dependancies management and data versioning.
+This will leverage best practices to establish project structure, dependancies management and data versioning.
 
 ### 2. Stage - Model Pipeline and Reproducing
 Create reproducable pipelines, version model artifacts and storage
@@ -23,5 +23,5 @@ Dataset source: https://www.kaggle.com/datasets/filippoo/deep-learning-az-ann
 
 #### Use Case
 Train the ML model that returns the probability of customer churning.
-The problem is of type Binary Classification type and fro evaluation metrics is used F1 score.
+The problem is of type Binary Classification and for evaluation metrics is used F1 score.
 The algorithm need to maximize both precision and recall simultaneously.
